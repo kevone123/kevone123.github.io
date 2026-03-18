@@ -16,16 +16,14 @@ body {
 
 }
 .content {
-right: 73px;
-position: static; 
+position: relative; 
 max-width: 1000px; /* Maximum width */
 margin: 0 auto; /* Center it */
 bottom: 0; /* At the bottom. Use top:0 to append it to the top */
 background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
 color: #f1f1f1; /* Grey text */
-width: 100%; /* Full width */
-padding: 100px; /* Some padding */
-position: fixed;    
+width: 50%; /* Full width */
+padding: 100px; /* Some padding */ 
  
 }
 # content  words { 
